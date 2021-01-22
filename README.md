@@ -1,6 +1,8 @@
 ### Hi [jpestana][website] here 👋
 
 
+![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)
+
 <!--
 Here are some ideas to get you started:
 
