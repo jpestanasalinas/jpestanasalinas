@@ -5,6 +5,8 @@
 
 [<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
 
+### Software engineer at @idealistasta 💻
+
 <!--
 Here are some ideas to get you started:
 
