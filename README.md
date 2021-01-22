@@ -5,7 +5,7 @@
 
 [<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
 
-### Software engineer at @idealistasta 💻
+### Software engineer at @idealista 💻
 
 - 🔭 I’m currently working on several projects based on Java :coffe:
 - 🌱 I’m currently learning Ansible :rocket:
