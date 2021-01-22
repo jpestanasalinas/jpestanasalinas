@@ -1,7 +1,7 @@
 ### Hi [jpestana][website] here 👋
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)](https://twitter.com/jpestanasalinas)
 
 <!--
 Here are some ideas to get you started:
