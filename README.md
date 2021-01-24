@@ -1,9 +1,13 @@
 ### Hi [jpestana][website] here 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)](https://twitter.com/jpestanasalinas)
 
 [<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
+
+### Connect with me!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)](https://twitter.com/jpestanasalinas)
+[![Github Follow](https://img.shields.io/github/followers/jpestanasalinas?label=jpestanasalinas&logo=github&style=for-the-badge)](https://github.com/jpestanasalinas)
 
 ### Software engineer at idealista 💻
 
