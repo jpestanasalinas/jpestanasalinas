@@ -40,6 +40,9 @@
 <img src="https://img.icons8.com/color/48/000000/linux-mint.png"/>
 </code>
 
-<!-- TODO : aqui metere iconos de tecnologias que uso-->
+### My Github Stats
+
+[![jpestanasalinas' github stats](https://github-readme-stats.vercel.app/api?username=jpestanasalinas&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://twitter.com/jpestanasalinas
