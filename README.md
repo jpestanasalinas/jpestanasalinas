@@ -1,13 +1,4 @@
-### Hi [jpestana][website] here 👋
-
-
-
-[<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
-
-### Connect with me!
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)](https://twitter.com/jpestanasalinas)
-[![Github Follow](https://img.shields.io/github/followers/jpestanasalinas?label=jpestanasalinas&logo=github&style=for-the-badge)](https://github.com/jpestanasalinas)
+### Hi there! I am Julio Pestaña a.k.a [jpestana][website] 👋
 
 ### Software engineer at idealista 💻
 
@@ -17,6 +8,13 @@
 - 💬 Ask me about software development
 - 📫 How to reach me: julio.p.salinas@gmail.com
 - 😄 Pronouns: he/him
+
+---
+
+### Connect with me!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)](https://twitter.com/jpestanasalinas)
+[![Github Follow](https://img.shields.io/github/followers/jpestanasalinas?label=jpestanasalinas&logo=github&style=for-the-badge)](https://github.com/jpestanasalinas)
 
 ---
 
