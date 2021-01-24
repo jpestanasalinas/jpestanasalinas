@@ -1,4 +1,4 @@
-### Hi there! I'm Julio Pestaña a.k.a [jpestana][website] 👋
+### Hi there! I'm [Julio Pestaña][website] 👋
 
 ### :computer: I'm Software engineer at idealista
 
