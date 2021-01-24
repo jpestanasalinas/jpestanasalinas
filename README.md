@@ -1,6 +1,6 @@
-### Hi there! I am Julio Pestaña a.k.a [jpestana][website] 👋
+### Hi there! I'm Julio Pestaña a.k.a [jpestana][website] 👋
 
-### Software engineer at idealista 💻
+### :computer: I'm Software engineer at idealista
 
 - 🔭 I’m currently working on several projects based on Java :coffe:
 - 🌱 I’m currently learning Ansible
@@ -11,7 +11,7 @@
 
 ---
 
-### Connect with me!
+### :electric_plug: Connect with me!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)](https://twitter.com/jpestanasalinas)
 [![Github Follow](https://img.shields.io/github/followers/jpestanasalinas?label=jpestanasalinas&logo=github&style=for-the-badge)](https://github.com/jpestanasalinas)
@@ -40,7 +40,7 @@
 <img src="https://img.icons8.com/color/48/000000/linux-mint.png"/>
 </code>
 
-### My Github Stats
+### :chart_with_upwards_trend: My Github Stats
 
 [![jpestanasalinas' github stats](https://github-readme-stats.vercel.app/api?username=jpestanasalinas&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
