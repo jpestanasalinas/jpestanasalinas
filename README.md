@@ -18,6 +18,7 @@
 
 ### :rocket: Coding
 
+<code>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
@@ -33,6 +34,7 @@
 <img src="https://img.icons8.com/ios/50/ffffff/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</code>
 
 <!-- TODO : aqui metere iconos de tecnologias que uso-->
 
