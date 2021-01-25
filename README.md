@@ -45,6 +45,8 @@
 [![jpestanasalinas' github stats](https://github-readme-stats.vercel.app/api?username=jpestanasalinas&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### :musical_note: Now listening...
+
 [![Spotify](https://spotifysongplaying.vercel.app/api/spotify)](https://open.spotify.com/user/1138888767)
 
 [website]: https://twitter.com/jpestanasalinas
