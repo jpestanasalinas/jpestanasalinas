@@ -2,7 +2,7 @@
 
 ### :computer: I'm Software engineer at idealista
 
-- 🔭 I’m currently working on several projects based on Java :coffe:
+- 🔭 I’m currently working on several projects based on Java :coffee:
 - 🌱 I’m currently learning Ansible
 - 👯 I’m looking to collaborate on open source projects and meetups. 
 - 💬 Ask me about software development
