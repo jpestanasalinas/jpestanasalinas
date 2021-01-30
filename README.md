@@ -116,4 +116,14 @@
 
 ---
 
+#### :radio: Recommended podcasts (Spanish)
+
+About software engineering:
+- [The Big Branch Theory](https://open.spotify.com/show/0nEgeCdO0r6u1GjE3AkJM8?si=5GoUOOfKTeGGIYGJOa7qrA)
+- [No Solo Tech](https://open.spotify.com/show/0FvdAzxX11y9GEvGH6Ke0u?si=hX_Vy4dgTZCKhXJwNnBvsQ)
+
+Other stuff:
+- [Catástrofe Ultravioleta](https://open.spotify.com/show/4STlCt9vD1jbazfNBRi1IN?si=6z7JXyU6RTi2QyxcVvx3kw)
+- [Astrobitácora](https://open.spotify.com/show/5VF15wANqcSdMJXDJ2Hzg9?si=FijUVwu2QDuClzeJzKVNPw)
+
 [website]: https://twitter.com/jpestanasalinas
