@@ -20,25 +20,59 @@
 
 ### :rocket: Languages and tools
 
-<code>
+[<code>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+</code>](https://www.jetbrains.com/es-es/idea/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+</code>](https://www.java.com/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+</code>](https://spring.io/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+</code>](https://kotlinlang.org/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
+</code>](https://www.python.org/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</code>](https://www.javascript.com/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</code>](https://git-scm.com/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+</code>](https://www.jenkins.io/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+</code>](https://www.docker.com/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+</code>](https://kubernetes.io/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/tomcat.png"/>
+</code>](http://tomcat.apache.org/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+</code>](https://www.oracle.com/)
+[<code>
 <img src="https://img.icons8.com/ios/50/ffffff/mysql-logo.png"/>
+</code>](https://www.mysql.com/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+</code>](https://www.postgresql.org/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</code>](https://www.mongodb.com/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+</code>](https://ubuntu.com/)
+[<code>
 <img src="https://img.icons8.com/color/48/000000/linux-mint.png"/>
-</code>
+</code>](https://linuxmint.com/)
+
+---
 
 ### :chart_with_upwards_trend: My Github Stats
 
@@ -50,8 +84,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&layout=compact&theme=dark" />
 </a>
 
+---
+
 ### :musical_note: Now listening...
 
 [![Spotify](https://spotifysongplaying.vercel.app/api/spotify)](https://open.spotify.com/user/1138888767)
 
+---
+
+
+
+---
 [website]: https://twitter.com/jpestanasalinas
