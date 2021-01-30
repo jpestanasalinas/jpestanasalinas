@@ -85,6 +85,18 @@
 </code>](https://linuxmint.com/)
 
 ---
+### :green_book: Essential books
+
+- **Clean code** by Robert C. Martin
+- **Design Patterns:  Elements of Reusable Object-Oriented Software** by E.Gamma et al.
+- **Test-Driven Development: By Example** by Kent Beck
+- **Refactoring. Improving the design of existing code** by Martin Fowler
+- **Extreme Programming Explained** by Kent Beck
+- **Working Effectively with Legacy Code** by Michael C. Feathers
+
+
+
+---
 
 ### :chart_with_upwards_trend: My Github Stats
 
