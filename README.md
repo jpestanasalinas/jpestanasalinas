@@ -27,11 +27,14 @@
 <img src="https://user-images.githubusercontent.com/58487514/106355097-3a07d200-62f6-11eb-9754-fc4aba9536d5.png"/>
 </code>](https://www.java.com/)
 [<code>
+<img src="https://user-images.githubusercontent.com/58487514/106355130-69b6da00-62f6-11eb-8bfa-91a077c9a8af.png"/>
+</code>](https://kotlinlang.org/)
+[<code>
 <img src="https://user-images.githubusercontent.com/58487514/106355114-50159280-62f6-11eb-9561-d0e1c29d9643.png"/>
 </code>](https://spring.io/)
 [<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355130-69b6da00-62f6-11eb-8bfa-91a077c9a8af.png"/>
-</code>](https://kotlinlang.org/)
+<img src="https://user-images.githubusercontent.com/58487514/106356177-ebf6cc80-62fd-11eb-8d23-85916b019dc8.png"/>
+</code>](https://www.scala-lang.org/)
 [<code>
 <img src="https://user-images.githubusercontent.com/58487514/106355150-80f5c780-62f6-11eb-89dd-07dabfa8d6c4.png"/>
 </code>](https://www.python.org/)
@@ -98,7 +101,4 @@
 
 ---
 
-
-
----
 [website]: https://twitter.com/jpestanasalinas
