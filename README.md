@@ -60,9 +60,6 @@
 <img src="https://user-images.githubusercontent.com/58487514/106355513-b00d3880-62f8-11eb-92f2-e8064f11497a.png"/>
 </code>](https://httpd.apache.org/)
 [<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355779-7b01e580-62fa-11eb-87a3-16d1646eb1e1.png"/>
-</code>](https://javaee.github.io/glassfish/)
-[<code>
 <img src="https://user-images.githubusercontent.com/58487514/106355568-21e58200-62f9-11eb-83ea-5f65561f7ce7.png"/>
 </code>](https://www.oracle.com/)
 [<code>
@@ -87,10 +84,10 @@
 
 <a href="https://github.com/jpestanasalinas">
 <img align="center" alt="jpestanasalinas' github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=jpestanasalinas&show_icons=true&count_private=true&theme=dark" /></a>
+    src="https://github-readme-stats.vercel.app/api?username=jpestanasalinas&show_icons=true&count_private=true&theme=vue-dark" /></a>
     
 <a href="https://github.com/jpestanasalinas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&theme=vue-dark" />
 </a>
 
 ---
