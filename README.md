@@ -42,7 +42,12 @@
 
 ### :chart_with_upwards_trend: My Github Stats
 
-[![jpestanasalinas' github stats](https://github-readme-stats.vercel.app/api?username=jpestanasalinas&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/sabesansathananthan">
+<img align="center" alt="sjpestanasalinas' github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=jpestanasalinas&show_icons=true&count_private=true&theme=dark" /></a>
+    
+<a href="https://github.com/sabesansathananthan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&layout=compact&theme=dark" />
+</a>
 
 [website]: https://twitter.com/jpestanasalinas
