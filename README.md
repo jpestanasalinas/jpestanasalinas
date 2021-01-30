@@ -2,7 +2,7 @@
 
 ### :computer: I'm Software engineer at idealista
 
-- 🔭 I’m currently working on several projects based on Java :coffe:
+- 🔭 I’m currently working on several projects based on Java :coffee:
 - 🌱 I’m currently learning Ansible
 - 👯 I’m looking to collaborate on open source projects and meetups. 
 - 💬 Ask me about software development
@@ -49,5 +49,9 @@
 <a href="https://github.com/sabesansathananthan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&layout=compact&theme=dark" />
 </a>
+
+### :musical_note: Now listening...
+
+[![Spotify](https://spotifysongplaying.vercel.app/api/spotify)](https://open.spotify.com/user/1138888767)
 
 [website]: https://twitter.com/jpestanasalinas
