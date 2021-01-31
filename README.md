@@ -120,13 +120,6 @@
 
 ---
 
-### :bird: Latest Tweets
-
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
-
----
-
 #### :radio: Recommended podcasts (Spanish)
 
 About software engineering:
