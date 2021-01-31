@@ -123,6 +123,13 @@
 ### :bird: Latest Tweets
 
 <!-- TWITTER:START -->
+- [jpestanasalinas: RT @MariaPereda_: "Las universidades son espacios seguros" dicen. 1) No hay espacio 100% seguro. 2) La horita en metro hasta llegar al edif…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e152fb7f2d6e3891b96876bceec1eb6132a9c8f2cb6e1757cdc110b9b68d06fe7ca1b79128f3bc16581ca)
+- [@MariaPereda_: "Las universidades son espacios seguros" dicen. 1) No hay espacio 100% seguro. 2) La horita en metro hasta llegar al edificio no es segura. 3) La formación online ha venido para quedarse, aunque a algunos no les guste. 4) Luego ya cada uno que escriba lo q quiera en su comunicado](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e323ea0e8c3d28208808266f8ad0cb15d2d9d9d77f2a16f79d8150a9067d06ce1c31a731d8c32c6)
+- [jpestanasalinas: Pues eso...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e152fb7f2d6e3891b96876bceec1eb6132a9c8f2cb6e1757cdc100a9066dd6ee8c11779128d38cd6688c6)
+- [jpestanasalinas: RT @DZoneInc: Jolly good! 🧐
+
+Via: @ismonkeyuser](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e152fb7f2d6e3891b96876bceec1eb6132a9c8f2cb6e1757cdc100f9764dc6fe7c71a7314823bc46582c1)
+- [@DZoneInc: Jolly good! 🧐Via: @ismonkeyuser](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b05bdefc7cb8919ca9573c6f60ab61368dbda68f0ab6e7ddf110f9266dd68e8c61578)
 <!-- TWITTER:END -->
 
 ---
