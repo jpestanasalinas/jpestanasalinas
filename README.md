@@ -130,4 +130,7 @@ Other stuff:
 - [Catástrofe Ultravioleta](https://open.spotify.com/show/4STlCt9vD1jbazfNBRi1IN?si=6z7JXyU6RTi2QyxcVvx3kw)
 - [Astrobitácora](https://open.spotify.com/show/5VF15wANqcSdMJXDJ2Hzg9?si=FijUVwu2QDuClzeJzKVNPw)
 
+
+![](https://komarev.com/ghpvc/?username=jpestanasalinas&color=green&label=visitors)
+
 [website]: https://twitter.com/jpestanasalinas
