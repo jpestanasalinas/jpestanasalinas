@@ -109,7 +109,7 @@
     src="https://github-readme-stats.vercel.app/api?username=jpestanasalinas&show_icons=true&count_private=true&theme=vue-dark" /></a>
     
 <a href="https://github.com/jpestanasalinas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&hide=dockerfile&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpestanasalinas&theme=vue-dark" />
 </a>
 
 ---
