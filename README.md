@@ -24,9 +24,6 @@
 ### :rocket: Languages and tools
 
 [<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355024-ea290b00-62f5-11eb-9dd1-29c417ae7996.png"/>
-</code>](https://www.jetbrains.com/es-es/idea/)
-[<code>
 <img src="https://user-images.githubusercontent.com/58487514/106355097-3a07d200-62f6-11eb-9754-fc4aba9536d5.png"/>
 </code>](https://www.java.com/)
 [<code>
