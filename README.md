@@ -77,12 +77,6 @@
 [<code>
 <img src="https://user-images.githubusercontent.com/58487514/106355675-dbdcee00-62f9-11eb-8200-18630c51fb2a.png"/>
 </code>](https://www.mongodb.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355710-15adf480-62fa-11eb-9c2f-17cd76a62d6a.png"/>
-</code>](https://ubuntu.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355738-32e2c300-62fa-11eb-828a-68cbc34cf408.png"/>
-</code>](https://linuxmint.com/)
 
 ---
 ### :green_book: Essential books
