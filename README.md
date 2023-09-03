@@ -1,7 +1,7 @@
 ### Hi there! I'm [Julio Pestaña][website] 👋
 
 [<code>
-<img src="https://user-images.githubusercontent.com/58487514/106357314-ae963d00-6305-11eb-8ba3-2b17a8dbb818.gif"/>
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 </code>](https://github.com/jpestanasalinas)
 
 ### :computer: I'm Software engineer at idealista
