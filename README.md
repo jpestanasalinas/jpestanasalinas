@@ -15,9 +15,7 @@
 
 ### :rocket: Languages and tools
 
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355097-3a07d200-62f6-11eb-9754-fc4aba9536d5.png"/>
-</code>](https://www.java.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355097-3a07d200-62f6-11eb-9754-fc4aba9536d5.png"/>](https://www.java.com/)
 [<code>
 <img src="https://user-images.githubusercontent.com/58487514/106355130-69b6da00-62f6-11eb-8bfa-91a077c9a8af.png"/>
 </code>](https://kotlinlang.org/)
