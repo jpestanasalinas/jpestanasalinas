@@ -6,12 +6,6 @@
 
 ### :computer: I'm Software engineer at idealista
 
-- 🔭 I’m currently working on several projects based on Java :coffee:
-- 🌱 I’m currently learning Typescript and React
-- 👯 I’m looking to collaborate on open source projects. 
-- 📫 How to reach me: julio.p.salinas@gmail.com
-- 😄 Pronouns: he/him
-
 ---
 
 ### :electric_plug: Connect with me!
