@@ -16,57 +16,23 @@
 ### :rocket: Languages and tools
 
 [<img src="https://user-images.githubusercontent.com/58487514/106355097-3a07d200-62f6-11eb-9754-fc4aba9536d5.png"/>](https://www.java.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355130-69b6da00-62f6-11eb-8bfa-91a077c9a8af.png"/>
-</code>](https://kotlinlang.org/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355114-50159280-62f6-11eb-9561-d0e1c29d9643.png"/>
-</code>](https://spring.io/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106356177-ebf6cc80-62fd-11eb-8d23-85916b019dc8.png"/>
-</code>](https://www.scala-lang.org/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355150-80f5c780-62f6-11eb-89dd-07dabfa8d6c4.png"/>
-</code>](https://www.python.org/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355192-c9ad8080-62f6-11eb-8139-85befb072227.png"/>
-</code>](https://www.javascript.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355215-e3e75e80-62f6-11eb-83e0-ef05a0cd98f3.png"/>
-</code>](https://git-scm.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355247-05e0e100-62f7-11eb-93f7-f0013a515287.png"/>
-</code>](https://www.jenkins.io/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355274-21e48280-62f7-11eb-9cbf-727215e6bfe2.png"/>
-</code>](https://www.docker.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355299-3cb6f700-62f7-11eb-80c0-46976b404f38.png"/>
-</code>](https://kubernetes.io/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355414-fc0bad80-62f7-11eb-96e0-d7a2c036913e.png"/>
-</code>](https://www.ansible.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355454-41c87600-62f8-11eb-8e18-0cddf37a8914.png"/>
-</code>](http://tomcat.apache.org/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355513-b00d3880-62f8-11eb-92f2-e8064f11497a.png"/>
-</code>](https://httpd.apache.org/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106356216-4728bf00-62fe-11eb-86ff-61c7ae204e85.png"/>
-</code>](https://www.nginx.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355568-21e58200-62f9-11eb-83ea-5f65561f7ce7.png"/>
-</code>](https://www.oracle.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355631-928c9e80-62f9-11eb-9005-7e32534c5636.png"/>
-</code>](https://www.mysql.com/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355658-c4056a00-62f9-11eb-9c88-2aabcc5dfce9.png"/>
-</code>](https://www.postgresql.org/)
-[<code>
-<img src="https://user-images.githubusercontent.com/58487514/106355675-dbdcee00-62f9-11eb-8200-18630c51fb2a.png"/>
-</code>](https://www.mongodb.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355130-69b6da00-62f6-11eb-8bfa-91a077c9a8af.png"/>](https://kotlinlang.org/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355114-50159280-62f6-11eb-9561-d0e1c29d9643.png"/>](https://spring.io/)
+[<img src="https://user-images.githubusercontent.com/58487514/106356177-ebf6cc80-62fd-11eb-8d23-85916b019dc8.png"/>](https://www.scala-lang.org/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355150-80f5c780-62f6-11eb-89dd-07dabfa8d6c4.png"/>](https://www.python.org/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355192-c9ad8080-62f6-11eb-8139-85befb072227.png"/>](https://www.javascript.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355215-e3e75e80-62f6-11eb-83e0-ef05a0cd98f3.png"/>](https://git-scm.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355247-05e0e100-62f7-11eb-93f7-f0013a515287.png"/>](https://www.jenkins.io/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355274-21e48280-62f7-11eb-9cbf-727215e6bfe2.png"/>](https://www.docker.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355299-3cb6f700-62f7-11eb-80c0-46976b404f38.png"/>](https://kubernetes.io/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355414-fc0bad80-62f7-11eb-96e0-d7a2c036913e.png"/>](https://www.ansible.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355454-41c87600-62f8-11eb-8e18-0cddf37a8914.png"/>](http://tomcat.apache.org/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355513-b00d3880-62f8-11eb-92f2-e8064f11497a.png"/>](https://httpd.apache.org/)
+[<img src="https://user-images.githubusercontent.com/58487514/106356216-4728bf00-62fe-11eb-86ff-61c7ae204e85.png"/>](https://www.nginx.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355568-21e58200-62f9-11eb-83ea-5f65561f7ce7.png"/>](https://www.oracle.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355631-928c9e80-62f9-11eb-9005-7e32534c5636.png"/>](https://www.mysql.com/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355658-c4056a00-62f9-11eb-9c88-2aabcc5dfce9.png"/>](https://www.postgresql.org/)
+[<img src="https://user-images.githubusercontent.com/58487514/106355675-dbdcee00-62f9-11eb-8200-18630c51fb2a.png"/>](https://www.mongodb.com/)
 
 ---
 ### :green_book: Essential books
