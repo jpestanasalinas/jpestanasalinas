@@ -6,8 +6,8 @@
 
 ### :electric_plug: Connect with me!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jpestanasalinas?color=1DA1F2&label=JPESTANASALINAS&logo=TWITTER&style=for-the-badge)](https://twitter.com/jpestanasalinas)
-[![Github Follow](https://img.shields.io/github/followers/jpestanasalinas?label=jpestanasalinas&logo=github&style=for-the-badge)](https://github.com/jpestanasalinas)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:jpestanasalinas)](https://twitter.com/jpestanasalinas)
+[![GitHub followers](https://img.shields.io/github/followers/jpestanasalinas)](https://github.com/jpestanasalinas)
 
 ---
 
