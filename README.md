@@ -6,7 +6,7 @@
 
 ### :electric_plug: Connect with me!
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:jpestanasalinas)](https://twitter.com/jpestanasalinas)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jpestanasalinas)](https://twitter.com/jpestanasalinas)
 [![GitHub followers](https://img.shields.io/github/followers/jpestanasalinas)](https://github.com/jpestanasalinas)
 
 ---
